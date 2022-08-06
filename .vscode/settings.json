@@ -1,0 +1,13 @@
+{
+    "editor.codeActionsOnSave": {
+        "source.organizeImports": false,
+    },
+    "path-intellisense.absolutePathToWorkspace": false,
+    "editor.quickSuggestions": {
+        "other": true,
+        "comments": false,
+        "strings": true
+    },
+    "typescript.tsserver.trace": "verbose",
+    "typescript.preferences.importModuleSpecifier": "non-relative"
+}
